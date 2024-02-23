@@ -1,0 +1,20 @@
+{
+  "name": "bili-electron",
+  "version": "1.0.0",
+  "description": "哔哩哔哩动态自动找到上次观看记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shxhanxia/bili-electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shxhanxia/bili-electron/issues"
+  },
+  "homepage": "https://github.com/shxhanxia/bili-electron#readme"
+}
